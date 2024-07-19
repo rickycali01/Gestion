@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rickycali01/Gestion.git/static/css/main.44618975.css",
-    "main.js": "/rickycali01/Gestion.git/static/js/main.55e6cf01.js",
-    "static/js/787.c280b53d.chunk.js": "/rickycali01/Gestion.git/static/js/787.c280b53d.chunk.js",
-    "static/media/Fac_Educacion.jpg": "/rickycali01/Gestion.git/static/media/Fac_Educacion.ec5ed24e23c9ade23bee.jpg",
-    "static/media/Fac_Ciencias_Vida_y_Tecnología.jpg": "/rickycali01/Gestion.git/static/media/Fac_Ciencias_Vida_y_Tecnología.b7572a706b835d2f6739.jpg",
-    "static/media/fondoUleam.jpg": "/rickycali01/Gestion.git/static/media/fondoUleam.81045bbac617319fb878.jpg",
-    "static/media/Fac_CienciasMedicas.jpg": "/rickycali01/Gestion.git/static/media/Fac_CienciasMedicas.3bbffe73aa18ca9264f8.jpg",
-    "static/media/logouleam1.jpg": "/rickycali01/Gestion.git/static/media/logouleam1.162c7f3c1abc0218cbd9.jpg",
-    "static/media/Fac_Adm._Empresa.jpg": "/rickycali01/Gestion.git/static/media/Fac_Adm._Empresa.bf134f76bb8f2296022c.jpg",
-    "static/media/Fac_Ingeniería.jpg": "/rickycali01/Gestion.git/static/media/Fac_Ingeniería.0b682c8b4f5b85bec18e.jpg",
-    "static/media/Fac_Ciencias_Sociales.jpg": "/rickycali01/Gestion.git/static/media/Fac_Ciencias_Sociales.bde5a1652f52a2f410df.jpg",
-    "static/media/fondoPerfil.jpg": "/rickycali01/Gestion.git/static/media/fondoPerfil.cfbc7ae424bb5dc4df7c.jpg",
-    "index.html": "/rickycali01/Gestion.git/index.html",
-    "main.44618975.css.map": "/rickycali01/Gestion.git/static/css/main.44618975.css.map",
-    "main.55e6cf01.js.map": "/rickycali01/Gestion.git/static/js/main.55e6cf01.js.map",
-    "787.c280b53d.chunk.js.map": "/rickycali01/Gestion.git/static/js/787.c280b53d.chunk.js.map"
+    "main.css": "/rickycali01/Gestion/static/css/main.c8088f58.css",
+    "main.js": "/rickycali01/Gestion/static/js/main.522bad8b.js",
+    "static/js/787.c280b53d.chunk.js": "/rickycali01/Gestion/static/js/787.c280b53d.chunk.js",
+    "static/media/Fac_Educacion.jpg": "/rickycali01/Gestion/static/media/Fac_Educacion.ec5ed24e23c9ade23bee.jpg",
+    "static/media/Fac_Ciencias_Vida_y_Tecnología.jpg": "/rickycali01/Gestion/static/media/Fac_Ciencias_Vida_y_Tecnología.b7572a706b835d2f6739.jpg",
+    "static/media/fondoUleam.jpg": "/rickycali01/Gestion/static/media/fondoUleam.81045bbac617319fb878.jpg",
+    "static/media/Fac_CienciasMedicas.jpg": "/rickycali01/Gestion/static/media/Fac_CienciasMedicas.3bbffe73aa18ca9264f8.jpg",
+    "static/media/logouleam1.jpg": "/rickycali01/Gestion/static/media/logouleam1.162c7f3c1abc0218cbd9.jpg",
+    "static/media/Fac_Adm._Empresa.jpg": "/rickycali01/Gestion/static/media/Fac_Adm._Empresa.bf134f76bb8f2296022c.jpg",
+    "static/media/Fac_Ingeniería.jpg": "/rickycali01/Gestion/static/media/Fac_Ingeniería.0b682c8b4f5b85bec18e.jpg",
+    "static/media/Fac_Ciencias_Sociales.jpg": "/rickycali01/Gestion/static/media/Fac_Ciencias_Sociales.bde5a1652f52a2f410df.jpg",
+    "static/media/fondoPerfil.jpg": "/rickycali01/Gestion/static/media/fondoPerfil.cfbc7ae424bb5dc4df7c.jpg",
+    "index.html": "/rickycali01/Gestion/index.html",
+    "main.c8088f58.css.map": "/rickycali01/Gestion/static/css/main.c8088f58.css.map",
+    "main.522bad8b.js.map": "/rickycali01/Gestion/static/js/main.522bad8b.js.map",
+    "787.c280b53d.chunk.js.map": "/rickycali01/Gestion/static/js/787.c280b53d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44618975.css",
-    "static/js/main.55e6cf01.js"
+    "static/css/main.c8088f58.css",
+    "static/js/main.522bad8b.js"
   ]
 }
